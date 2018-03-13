@@ -13,7 +13,7 @@ module.exports = {
         PASSWORD: 'pcprepkit9'
     },
     apiai: {
-        clientToken: '2da698372070440e9ac9ac5c96917147'
+        clientToken: 'edadfbf712484dfdbea9c828b5dfd29d'
     },
     databaseSetup: {
         DATABASE_NAME: 'pcprepkit',
